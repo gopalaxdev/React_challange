@@ -1,0 +1,24 @@
+.blog__card__container{
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  max-width: 450px;
+  margin:10px
+}
+
+.card__header{
+  text-align: center;
+  text-transform: uppercase;
+  font-size:1.2rem;
+  padding:5px;
+  border-bottom: 1px solid black;
+  color: goldenrod
+}
+
+.card__body{
+  padding: 10px 7px;
+}
+
+.blog__card__container:hover {
+  box-shadow: 0 8px 20px 0 rgba(0,0,0,0.2);
+}
