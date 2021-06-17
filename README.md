@@ -8,7 +8,7 @@
    "Contanis Link to verify certificates"
    
    b. Blogs Page
-   ![Blogs Page](https://github.com/gops12345/React_challange/blob/main/images/Home.PNG)
+   ![Blogs Page](https://github.com/gops12345/React_challange/blob/main/images/Blogs.PNG)
    
    "Contains feature to search the blog based on name"
    
